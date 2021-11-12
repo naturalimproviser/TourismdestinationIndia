@@ -42,7 +42,7 @@ using WorldHeritageJSON;
     <h2 style=""color:orange"">Your One Stop Site for Your Next Dream UNESCO World Heritage Site Destination!</h2>
     <p style=""color:lightgray"">
         We provide consultancy for end to end tricks of the trade and help in connecting you to your dream<br>
-        <a href=""https://whc.unesco.org/en/list/"" target=""_blank"" style=""color:lightgray;"">UNESCO World Heritage Sites!</a>.
+        <a href=""https://www.incredibleindia.org/content/incredible-india-v2/en.html"" target=""_blank"" style=""color:lightgray;""></a>.
     </p>
 </div>
 <hr>
@@ -57,16 +57,16 @@ using WorldHeritageJSON;
     <div class=""carousel-inner"">
         ");
             WriteLiteral(@"<div class=""carousel-item active"">
-            <img class=""d-block w-100"" src=""https://everything-everywhere.com/wp-content/uploads/2018/10/UNESCO-World-Heritage-Sites.jpg"" width=""500"" height=""500"" alt=""Jobs Image"">
+            <img class="d-block w-100" src="\Images\5.jpeg" width="500" height="500" alt="Jobs Image">
         </div>
         <div class=""carousel-item"">
-            <img class=""d-block w-100"" src=""https://travel.home.sndimg.com/content/dam/images/travel/fullset/2012/05/07/2f/italy-unesco-sites_ss_001.jpg.rend.hgtvcom.1280.960.suffix/1491583009875.jpeg"" width=""500"" height=""500"" alt=""Jobs Image"">
+            <img class=""d-block w-100"" src="\Images\3.jpg" width=""500"" height=""500"" alt=""Jobs Image"">
         </div>
         <div class=""carousel-item"">
-            <img class=""d-block w-100"" src=""https://www.planetware.com/photos-large/PER/peru-machu-picchu-world-heritage.jpg"" width=""500"" height=""500"" alt=""Jobs Image"">
+            <img class=""d-block w-100"" src="\Images\4.jpg" width=""500"" height=""500"" alt=""Jobs Image"">
         </div>
     </div>
-    <a class=""carousel-control-prev"" href=""#carouselExampleIndicators"" role=""button"" data-slide=""prev"">
+    <a class=""carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
         <span class=""carousel-control-prev-icon"" aria-hidden=""true""></span>
         <span class=""sr-only"">Previous</span>
     </a>
@@ -82,12 +82,10 @@ using WorldHeritageJSON;
 <div class=""container"">
     <h2 style=""color:Yellow;padding-bottom:50px"">Website Details</h2>
     <div class=""row row-cols-2"">
-        <div class=""col"" style=""text-align: left"">
-            <img src=""https://www.quasarex.com/wp-content/uploads/2019/05/six-unesco-world-heritage-banner-2.jpg"" id=""leftImage"" width=""400"" height=""400"" alt=""Image of Hiring"" class=""center"" style=""padding-bottom:40px ;padding-right:30px"">
-        </div>
+        
         <div class=""col"">
             <ul style=""color:gold;font:verdana;font-size:25px"">
-                <li>Visit any of the UNESCO World Heritage Sites!!</li>
+                <li>Visit any of the Sites!!</li>
                 <li>You are not alone in your endeavor!!Seek Help from our Experts when traveling to unknown destinations!!</li>
             </ul>
         </div>

@@ -251,7 +251,7 @@
     "Dataset": {
       "type": "string",
       "enum": [
-        "world-heritage-unesco-list"
+        "tourism-list"
       ],
       "title": "Dataset"
     },
@@ -278,11 +278,11 @@
     "ContinentFr": {
       "type": "string",
       "enum": [
-        "Europe et Amérique du nord",
-        "États arabes",
+        "Europe et Am?rique du nord",
+        "?tats arabes",
         "Asie et pacifique",
         "Afrique",
-        "Amérique latine et Caraïbes"
+        "Am?rique latine et Cara?bes"
       ],
       "title": "ContinentFr"
     },

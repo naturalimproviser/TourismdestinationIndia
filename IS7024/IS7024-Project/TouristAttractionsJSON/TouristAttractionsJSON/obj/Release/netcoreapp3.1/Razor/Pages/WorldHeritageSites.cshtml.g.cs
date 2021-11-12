@@ -113,7 +113,7 @@ else if (Model.IsSearchCountry)
 #nullable disable
             WriteLiteral(@"    <table>
         <tr>
-            <th>Name of Unesco</th>
+            <th>Name</th>
             <th>Country</th>
             <th>Latitude</th>
             <th>Longitude</th>

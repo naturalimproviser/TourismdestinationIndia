@@ -6,19 +6,10 @@
           <Node name="TouristAttractions" expanded="True">
             <Node name="TouristAttractions" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Shared" expanded="True" />
-                <Node name="Index.cshtml" expanded="True" selected="True" />
-                <Node name="TouristAttractionsInIndia.cshtml" expanded="True" />
-                <Node name="TouristShare.cshtml" expanded="True" />
+                <Node name="TouristAttractionsInIndia.cshtml" expanded="True" selected="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
-                <Node name="lib" expanded="True">
-                  <Node name="bootstrap" expanded="True">
-                    <Node name="dist" expanded="True">
-                      <Node name="css" expanded="True" />
-                    </Node>
-                  </Node>
-                </Node>
+                <Node name="css" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -26,7 +17,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.TouristAttractions PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.TouristAttractions PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

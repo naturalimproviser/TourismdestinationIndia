@@ -160,11 +160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/deepa/Downloads/IS7024_XML_Tourist-Attractions-In-US-main/IS7024/IS7024-Project/TouristAttractionsJSON/TouristAttractionsJSON/TouristAttractions.csproj",
+      "projectUniqueName": "/Users/deepa/Desktop/IS7024_XML_Tourist-Attractions-In-US-main/TourismdestinationIndia/IS7024/IS7024-Project/TouristAttractionsJSON/TouristAttractionsJSON/TouristAttractions.csproj",
       "projectName": "TouristAttractions",
-      "projectPath": "/Users/deepa/Downloads/IS7024_XML_Tourist-Attractions-In-US-main/IS7024/IS7024-Project/TouristAttractionsJSON/TouristAttractionsJSON/TouristAttractions.csproj",
+      "projectPath": "/Users/deepa/Desktop/IS7024_XML_Tourist-Attractions-In-US-main/TourismdestinationIndia/IS7024/IS7024-Project/TouristAttractionsJSON/TouristAttractionsJSON/TouristAttractions.csproj",
       "packagesPath": "/Users/deepa/.nuget/packages/",
-      "outputPath": "/Users/deepa/Downloads/IS7024_XML_Tourist-Attractions-In-US-main/IS7024/IS7024-Project/TouristAttractionsJSON/TouristAttractionsJSON/obj/",
+      "outputPath": "/Users/deepa/Desktop/IS7024_XML_Tourist-Attractions-In-US-main/TourismdestinationIndia/IS7024/IS7024-Project/TouristAttractionsJSON/TouristAttractionsJSON/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/deepa/.config/NuGet/NuGet.Config"

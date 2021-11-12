@@ -160,7 +160,7 @@ namespace QuickType
 
     public enum State { Displayed };
 
-    public enum Dataset { TouristAttractionsUnescoList };
+    public enum Dataset { TouristAttractionsList };
 
     public enum Category { Cultural, Mixed, Natural };
 
@@ -243,7 +243,7 @@ namespace QuickType
             var value = serializer.Deserialize<string>(reader);
             if (value == "tourist-attraction-unesco-list")
             {
-                return Dataset.TouristAttractionsUnescoList;
+                return Dataset.TouristAttractionsList;
             }
             throw new Exception("Cannot unmarshal type Dataset");
         }
@@ -256,9 +256,9 @@ namespace QuickType
                 return;
             }
             var value = (Dataset)untypedValue;
-            if (value == Dataset.TouristAttractionsUnescoList)
+            if (value == Dataset.TouristAttractionsList)
             {
-                serializer.Serialize(writer, "tourist-attraction-unesco-list");
+                serializer.Serialize(writer, "tourist-attraction-list");
                 return;
             }
             throw new Exception("Cannot marshal type Dataset");

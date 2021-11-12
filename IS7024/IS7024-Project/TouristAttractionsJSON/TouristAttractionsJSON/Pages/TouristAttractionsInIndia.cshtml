@@ -9,19 +9,19 @@
 
 <form action="" method="POST" style="margin-top: 50px;">
     <div class="form-group">
-    <label class="control-label" for="UnescoCountry">Search Unesco Sites in a Country</label>
+    <label class="control-label" for="Country">Search Sites in a Country</label>
        
-    <select class="form-control" name="UnescoCountry" id="UnescoCountry">
+    <select class="form-control" name="Country" id="Country">
         <option value=""></option>
-        <option value="Mumbai">India</option>
-        <option value="New Delhi">India</option>
-        <option value="Jaipur">India</option>
-        <option value="Agra">India</option>
-        <option value="Gwalior">India</option>
-        <option value="Amritsar">India</option>
-        <option value="Bangalore">India</option>
-        <option value="Chennai">India</option>
-        <option value="Mysore">India</option>
+        <option value="Mumbai">Maharashtra</option>
+        <option value="New Delhi">New Delhi</option>
+        <option value="Jaipur">Rajasthan</option>
+        <option value="Agra">UP</option>
+        <option value="Gwalior">MP</option>
+        <option value="Amritsar">Punjab</option>
+        <option value="Bangalore">Karnataka</option>
+        <option value="Chennai">Tamil Nadu</option>
+        <option value="Mysore">Karnataka</option>
     </select>
     </div>
 
@@ -43,10 +43,10 @@ else if (Model.IsSearchCountry)
     {
         <table class="table table-dark">
             <tr>
-                <th>Name of Unesco</th>
+                <th>Name</th>
                 <th>Country</th>
-                <th>Latitude</th>
-                <th>Longitude</th>
+                <th></th>
+                <th></th>
                 <th>Temperature</th>
                 <th>Sunrise</th>
                 <th>Sunset</th>

@@ -43,7 +43,7 @@ namespace TouristAttractionsJSON.Pages
             _configuration = configuration;
         }
         [BindProperty]
-        public string UnescoCountry { get; set; }
+        public string Country { get; set; }
 
         public bool IsSearchCountry { get; set; }
         public bool IsSearchValid = true;
@@ -59,13 +59,13 @@ namespace TouristAttractionsJSON.Pages
         {
             try
             {
-                if (string.IsNullOrEmpty(UnescoCountry))
+                if (string.IsNullOrEmpty(Country))
                 {
                     IsSearchEmpty = true;
                 }
                 else
                 {
-                    string CountrySearched = UnescoCountry.ToLower();
+                    string CountrySearched = Country.ToLower();
 
                     using (var webClient = new WebClient())
                     {
